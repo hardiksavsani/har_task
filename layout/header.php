@@ -39,6 +39,9 @@
              <li class="nav-item">
                <a class="nav-link" href="header.php">company</a>
              </li>
+             <li class="nav-item">
+               <a class="nav-link" href="variable.php">ex3</a>
+             </li>
              
            </ul>
            <form class="d-flex" role="search">

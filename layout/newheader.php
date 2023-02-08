@@ -31,7 +31,8 @@
             <li class="Coffee"><a href="#">Coffee</a></li>
             <li class="Find"><a href="#">Find US</a></li>
             <li class="About"><a href="#">About US</a></li>
-            <li class="About"><a href="ex1.php">Exercise1</a></li>
+            <li class="About"><a href="ex1.php">Exercise 2</a></li>
+            <li class="exe3"><a href="variable.php">Exercise 3</a></li>
 
           </ul>          
     </header>
