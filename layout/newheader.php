@@ -33,6 +33,7 @@
             <li class="About"><a href="#">About US</a></li>
             <li class="About"><a href="ex1.php">Exercise 2</a></li>
             <li class="exe3"><a href="variable.php">Exercise 3</a></li>
+            <li class="exe4"><a href="global&static.php">Exercise 4</a></li>
 
           </ul>          
     </header>

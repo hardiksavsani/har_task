@@ -40,7 +40,10 @@
                <a class="nav-link" href="header.php">company</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="variable.php">ex3</a>
+               <a class="nav-link" href="variable.php">exercise 3</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="global&static.php">Exercise 4</a>
              </li>
              
            </ul>
