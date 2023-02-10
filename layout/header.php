@@ -45,6 +45,9 @@
              <li class="nav-item">
                <a class="nav-link" href="global&static.php">Exercise 4</a>
              </li>
+             <li class="nav-item">
+               <a class="nav-link" href="array1.php">Exercise 5</a>
+             </li>
              
            </ul>
            <form class="d-flex" role="search">
