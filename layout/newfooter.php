@@ -1,15 +1,6 @@
-
-
-
-
-
 <footer>
-    
-    <div class="grid-container2" >
-
-        
+    <div class="grid-container2">
         <div>
-            
             <p class="first">ABOUT US</p>
             <p>Our Company</p>
             <p>Privacy & Policy</p>
@@ -29,5 +20,3 @@
         </div>
     </div>
   </footer>
-</body>
-</html>

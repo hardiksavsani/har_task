@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,29 +11,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Damion&display=swap" rel="stylesheet">
     <title>Crush Coffee</title>
 </head>
-
-
-
 <body>
-
-
-    <div class="bg-image" background-image: "img/wallpaper.jpg" >
-    
-    </div>
+    <div class="bg-image"></div>
 
     <header>
-
         <ul class="topnav">
             <li class="right"><a href="index.html">Crush Café</a></li>
             <li><a class="active" href="index.html"><u>Home</u></a></li>
             <li class="Coffee"><a href="#">Coffee</a></li>
             <li class="Find"><a href="#">Find US</a></li>
             <li class="About"><a href="#">About US</a></li>
-            <li class="About"><a href="ex1.php">Exercise 2</a></li>
-            <li class="exe3"><a href="variable.php">Exercise 3</a></li>
-            <li class="exe4"><a href="global&static.php">Exercise 4</a></li>
-            <li class="exe5"><a href="array1.php">Exercise 5</a></li>
-
+            <li class=""><a href="exer2.php">EXERCISE 1</a></li>
           </ul>          
     </header>
 
@@ -66,8 +52,3 @@
             </div></a> 
         </div>
     </section>
-
-    <div class="text">
-        <p>"Welcome to Crush café, where every cup is crafted with care and passion. Our beans are sourced from the finest farms and roasted to perfection, ensuring a rich and satisfying taste in every sip  in our cozy atmosphere. Whether you're in need of a morning pick-me-up or an afternoon escape, our cozy and inviting atmosphere is the perfect place to relax and refuel. Stop by today and let us help you crush the day ahead!"</p>
-  </div>
-    
